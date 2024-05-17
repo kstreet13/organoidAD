@@ -1,0 +1,25 @@
+2024-05-17
+----------
+Yanhong Shi, April Shu
+Deadline: June 13th
+Alzheimer's disease brain organoids
+Program officer wants a specific aims page
+Need specific hypothesis (1 aim: testing) and model validation (1 aim)
+Need computational multi-scale model (spatial or temporal scales)
+Sc multi-omics (<-) or spatial on organoid models
+Spatial (molecules -> cells -> organoids -> patients)
+"Role of neuroinflamation in (hallmarks of) aging"
+Organoids from patient samples at multiple ages
+patients: 4 groups of 4: fetal, young, old, old+AD
+Does neuroinflammation accelerate aging and neurodegeneration?
+Some organoids will have induced neuroinflamation
+Predict relationship between inflammation and aging/AD (genetic clock - real age)
+Use normal samples to build aging clock/genetic age
+Then predict genetic age of inflammation/AD samples
+Build separate models for different hallmarks of aging
+"Preliminary results" can be simulated or examples from methods paper
+April will handle epigenetic clock
+Yanhong will handle biology
+
+*** Write a few paragraphs and send to Yanhong to make into specific aims
+
