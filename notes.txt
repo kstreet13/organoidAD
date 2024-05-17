@@ -1,3 +1,38 @@
+2024-05-01
+==========
+April Shu, Yanhong Shi (City of Hope)
+
+RFA from NIH multiscale modeling 
+2-3 levels: 1 is reprogrammed cells in dish to model Alzheimers
+imaging(?) of brain organoids to connect to phenotypes
+~ neural connectivity measurements
+need spatial scale and temporal scale
+April can do some analysis with epigenetic aging clocks
+altered intercellular communication with aging
+have organoids and mouse models
+
+aging clock - bulk, tissue level?
+cellular senescence(?) - cellular level
+inflammation - tissue level? single-cell level as gene panel
+intercellular communication - tissue level
+
+secretome analysis (secreted proteins) - tissue level
+
+Q: how do old/young glia cells influence old/young neurons?
+
+scATAC? spatial? scRNAseq? (sc?)methylation?
+
+want to use public datasets, but are there many on human brain? Yanhong: none on age-associated brain ogranoids
+
+Identify markers related to aging and AD risk?
+Q: find contribution of aging to neurodegeneration
+
+Yanhong: main data will be scRNA+ATAC-seq
+
+Yanhong will send email to program officer, we will draft some questions to ask and then meet with them.
+
+
+
 2024-05-17
 ----------
 Yanhong Shi, April Shu
